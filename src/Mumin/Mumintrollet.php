@@ -17,6 +17,6 @@ class Mumintrollet
      */
     public function getName()
     {
-        return "My Name is  not Mumintrollet.";
+        return "My Name is Mumintrollet.";
     }
 }
